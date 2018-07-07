@@ -4,4 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Giancarlo lavora per Avanade Italy nell’ Italy Delivery Center a Cagliari. In qualità di Technical Lead ha il compito di supervisionare le attività di sviluppo, stimare e definire le attività tecniche necessarie per portare avanti i progetti in cui è coinvolto. Essendo il suo team parte della practice CRM, la piattaforma Microsoft Dynamics è il suo pane quotidiano. Giancarlo partecipa abitualmente in veste di speaker a numerose conferenze sul territorio nazionale parlando principalmente di tecnologie collegate alla Windows Platform e al mondo del Cloud. E’ Lead e fondatore di Italian Developer Connection, uno user group dedicato alle tecnologie Microsoft attivo nel sud Italia. Dal 2015 al 2018 è stato Microsoft MVP per la categoria Windows Development ed è certificato MCSE Cloud Platform & Infrastructure
+Hi there, I'm Giancarlo - I work for Avande in the CRM Talent Community. I'm a technical lead accountable for the technical quality and delivery of CRM projects. I'm a doer in the Microsoft 365 ecosystem, MCSE Cloud Platform & Infrastructure certified and former Microsoft MVP on Windows Development. I love rock festivals and in my spare time I do CrossFit. If you want to chat about Cloud, Development Technologies, Innovation and all things related to Microsoft 365...you have found your guy!!
+
+In this blog I will write about
+* Microsoft 365
+* Cloud
+* DevOps
+* Dynamics 365 CE
+
+If you wanna say "Hi!" reach to to me on Twitter and/or Email with the contact info below.
