@@ -17,7 +17,7 @@ title: Stuff that I do
 email: gcarlo.lelli@live.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog of Giancarlo Lelli. Doer in the Microsoft 365 Ecosystem
-  If you want to read about Windows, Cloud & DevOps you have come to the right place.
+  If you want to read about Windows, Cloud, DevOps & Dynamics 365 CE you have come to the right place.
   Reach out to me on Twitter & Mail to say hi!.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
