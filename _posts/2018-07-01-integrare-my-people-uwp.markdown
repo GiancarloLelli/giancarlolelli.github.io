@@ -4,6 +4,7 @@ title:  "Integrare la barra \"My People\" nella UWP"
 date:   2018-07-01 9:00:00 +0200
 categories: uwp
 ---
+{: style="text-align: justify"}
 Una funzionalità che ho trovato molto utile nelle ultime versioni di Windows è la barra **My People** - questa funzionalità infatti ci permette di avere una serie di contatti preferiti pinnati all'interno della task bar e avere a disposizione una serie di quick action per interagire con questi contatti. Questa funzionalità è un chiaro esempio di incentivo alla collaborazione e all'empowerment dello user verso una tecnologia che lo aiuta e non lo ostacola in quanto di difficile utilizzo.
 
 Ovviamente, come la maggior parte delle funzionalità di Windows - anche l'integrazione della barra My People è fruibile tramite API della Universal Windows Platform in moda da permettere a noi sviluppatori indipendenti di arricchiere le nostre app e le nostre experiences traimte questa nuova funzionalità.
@@ -35,5 +36,4 @@ Il flusso di utilizzo di queste quattro può essere descritto come segue: Usando
 
 Personalmente trovo questa funzionalità molto utile. Ricercando info ed esempi di utilizzo mi sono imbattuto in questo post dettagliato che oltre a dare una panoramica teorica di questa funzionalità confeziona una demo di esempio e delle GIF animate che rendono meglio l'idea, [questo](http://www.shenchauhan.com/blog/2018/1/10/mypeople) è il link.
 
-#KeepDepeveloping\
-Giancarlo
+#KeepDepeveloping - Giancarlo
