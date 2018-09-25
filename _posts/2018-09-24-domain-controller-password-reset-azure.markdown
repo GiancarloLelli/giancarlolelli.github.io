@@ -11,3 +11,4 @@ Set-ADAccountPassword -Identity MyUser -NewPassword (ConvertTo-SecureString -AsP
 ```
 {: style="text-align: justify"}
 E' strano notare come la funzionalità dedicata del portale di Azure di password reset falliva - in quanto a detta del messaggio di errore i domain controller, o gli account con ruolo domain controller non sono supportati. Fortunatamente per me questo CMDLet invece ha fatto il suo dovere.
+
