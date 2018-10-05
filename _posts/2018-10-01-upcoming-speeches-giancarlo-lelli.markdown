@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Prossimi talk - Docker & .NET for the Win"
 date:   2018-10-01 9:00:00 +0200
-categories: talks
+categories: talk
 ---
 {: style="text-align: justify"}
 In questi giorni ho avuto la conferma da parte degli organizzatori di una serie di confrenze italiane che la mia C4P è stata accettata. Di seguito gli eventi, le date, e gli abstract delle sessioni.
