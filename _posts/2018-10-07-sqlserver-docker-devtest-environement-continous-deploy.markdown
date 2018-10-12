@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Continouos deployment con Azure DevOps di SQL Server DB Project su SQL Server 2017 on Docker EE (1/2)"
+title:  "Continuous deployment con Azure DevOps di SQL Server DB Project su SQL Server 2017 on Docker EE (1/2)"
 date:   2018-10-07 9:00:00 +0200
 categories: devops
 ---
