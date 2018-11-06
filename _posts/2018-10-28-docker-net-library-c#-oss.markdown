@@ -23,7 +23,7 @@ DockerClient client = new DockerClientConfiguration(
      .CreateClient();
 ```
 {: style="text-align: justify"}
-Queste 3 righe di codice collegano la nostra applicazione ad un deamon docker che sta da qualche parte nella rete. la libreria supporta anche la connessione al deamon locale e ad Docker engine su Linux. La classe **DockerCLientConfiguration** in questi casi viene parametrizzata opportutamente con l'indirizzo di una pipe/socket.  
+Queste 3 righe di codice collegano la nostra applicazione ad un deamon docker che sta da qualche parte nella rete. la libreria supporta anche la connessione al deamon locale e ad Docker engine su Linux. La classe **DockerClientConfiguration** in questi casi viene parametrizzata opportutamente con l'indirizzo di una pipe/socket.  
   
 Tramite questa libreria, una volta istanziato il cliente, effettuare l'equivalente di un *docker images* è semplicissimo.
 ```csharp
