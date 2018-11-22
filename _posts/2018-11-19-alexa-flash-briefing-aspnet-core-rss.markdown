@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usare ASP.NET core e Azure per creare un Flash Briefing JSON feed per Alexa"
+title:  "Usare ASP.NET Core e Azure per creare un Flash Briefing JSON feed per Alexa"
 date:   2018-11-19 9:00:00 +0200
 categories: howto
 ---
