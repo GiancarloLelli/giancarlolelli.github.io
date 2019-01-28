@@ -35,4 +35,4 @@ Il succo di tutto è la libreria **HtmlAgilityPack** - famosissima libreria (dis
 
 ### Disclaimer
 {: style="text-align: justify"}
-**Le immagini su Instagram devono sempre e comunque ritenersi di proprietà dell'account che le posta, o per lo meno di chi su Instagram decide di postare quell'immagine come stato. Utilizzare in maniera impropria tecniche di questo tipo -per impossessarsi e ridistribuire in maniera non autorizzata questo tipo di contenuti - è una pratica illegale e passibile di multe e/o sanzioni.**
+**Le immagini su Instagram devono sempre e comunque ritenersi di proprietà dell'account che le posta, o per lo meno di chi su Instagram decide di postare quell'immagine come stato. Utilizzare in maniera impropria tecniche di questo tipo - per impossessarsi e ridistribuire in maniera non autorizzata questo tipo di contenuti - è una pratica illegale e passibile di multe e/o sanzioni. E io non mi assumo nessuna responsabilità di come usere questo snippet di codice**
