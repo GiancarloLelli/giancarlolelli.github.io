@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 {: style="text-align: justify"}
-Hi there, I'm Giancarlo - I work for Avande in the CRM Talent Community. I'm a technical lead accountable for the technical quality and delivery of CRM projects. I'm a doer in the Microsoft 365 ecosystem, MCSE Cloud Platform & Infrastructure certified and former Microsoft MVP on Windows Development. I love rock festivals and in my spare time I do CrossFit. If you want to chat about Cloud, Development Technologies, Innovation and all things related to Microsoft 365...you have found your guy!!
+Giancarlo works for Avanade as a Modern Application Transformation (MAT) Solution Architect in the Application & Infrastructure Market Unit. His primary focus is helping clients leverage the latest Microsoft Azure Cloud Technologies to successfully Modernize their legacy workloads, adopt modern development practices and innovate at a faster pace.
 
-In this blog I will write about
-* Microsoft 365
-* Cloud
-* DevOps
-* Dynamics 365 CE
+Innovator at hearth he likes big challenges and being part of demanding environments where being flexible and a fast thinker are key to survive, In his spare time he likes to read about technology trends, business innovation and do CrossFit.
 
-If you wanna say "Hi!" reach to to me on Twitter and/or Email with the contact info below.
+Giancarlo regularly speaks at local & industry conferences covering topics related to Microsoft Azure, the Business Application Platform and Technology Innovation. Since 2015 he is a Microsoft MVP and holds several Microsoft Certifications. In May 2019 he joined the The Future Makers Associations, an initiative supported by The Boston Consulting Group for the development and growth of the Italian leaders of tomorrow. 
