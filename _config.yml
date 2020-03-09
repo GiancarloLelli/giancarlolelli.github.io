@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Giancarlo Lelli - Cloud Native Azure Solution Architect
+title: Giancarlo Lelli
 email: gcarlo.lelli@live.com
+tagline: Cloud Native Azure Solution Architect
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog of Giancarlo Lelli. Solution Architect currently working for Avanade.
+  Personal blog of Giancarlo Lelli.
+  Solution Architect and Microsoft MVP currently working for Avanade.
   Use my Email and Twitter account to reach out and say Hi!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
