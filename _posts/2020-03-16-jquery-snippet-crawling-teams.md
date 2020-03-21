@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Utilizzare Let'Encrypt con GoDaddy + Azure App Service"
-date:   2020-03-09 9:00:00 +0200
+title:  "JQuery Snippet per Crawling da channel Teams"
+date:   2020-03-16 9:00:00 +0200
 categories: blog
 ---
 {: style="text-align: justify"}
