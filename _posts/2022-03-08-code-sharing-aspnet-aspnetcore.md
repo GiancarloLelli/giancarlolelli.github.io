@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "COndivisione del codice tra ASP.NET e ASP.NET Core"
+title:  "Condivisione del codice tra ASP.NET e ASP.NET Core"
 date:   2022-03-08 9:00:00 +0200
 categories: blog
 ---
