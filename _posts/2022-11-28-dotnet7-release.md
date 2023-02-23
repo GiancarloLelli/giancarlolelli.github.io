@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Virtual IBAN per le aziende"
-date:   2022-10-03 9:00:00 +0200
+title:  ".NET 7 è stato rilasciato"
+date:   2022-11-28 9:00:00 +0200
 categories: blog
 ---
 {: style="text-align: justify"}
